@@ -2,3 +2,6 @@
 
 # Phpstorm directory .idea ignore
 .idea
+
+# PhpUnit Cache
+.phpunit.result.cache
