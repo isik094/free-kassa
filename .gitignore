@@ -1,0 +1,4 @@
+/vendor/
+
+# Phpstorm directory .idea ignore
+.idea

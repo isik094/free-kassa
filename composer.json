@@ -1,0 +1,21 @@
+{
+    "name": "isik/free-kassa",
+    "description": "Пакет для интеграции с платежным шлюзом FreeKassa",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Isik\\FreeKassa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nasirov Ismaiil",
+            "email": "isik94@icloud.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
